@@ -47,17 +47,21 @@ There is a few step in **Non-Advance mode** and  **Advance mode.**
 
  1. Clone the repository: clone the repository to your local machine. You can do this by running the command `git clone <repository-url>` in your terminal.
  2. Create a new branch: Once you have the repository cloned, create a new branch to work on your changes. This is done using the command `git checkout -b <GUIDES-yourusername>`.
+ 
  3. Add your author information in `guides/author.yml` then edit like the example below
- ```yml
+ 
+ ```
  chaser:
   name: Chaserlazer
   title: Community Contributor
   url: https://github.com/abimanyudrmwn
   image_url: https://cdn.discordapp.com/avatars/566871075355623449/a660c16ec952c22d5586cac119838b2f?size=1024
-```
+  ```
+
  5. Make your changes: This is the step where you make your contribution. You can directly make new markdown file with date in your terminal e.g. `touch 2023-05-02-your-name-of-content.md` on `guides` directory.
  6. Then don't forget to add content header e.g.
-```md
+ 
+```
 ---
 slug: guide-for-dummy
 title: Guide for Dummy
@@ -67,6 +71,7 @@ tags: [guide]
 
 [YOUR CONTENT]
 ```
+
 7. Commit your changes: Once you have made your changes, commit them to your branch. This is done using the command `git commit -m "guides: [YOUR-GUIDE-TITLE]"`.
 8. Push your changes: After committing your changes, push them to your fork on GitHub. This is done using the command `git push origin <new-branch-name>`.
 9. Create a pull request: Finally, create a pull request to merge your changes into the portal repository. This can be done through the GitHub interface by going to Portal repository and clicking on the "New pull request" button. Make sure to provide a detailed description of your changes and any relevant information.
