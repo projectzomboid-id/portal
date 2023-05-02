@@ -6,7 +6,8 @@ tags: [guide]
 ---
 
 
-## Tools
+
+### Tools
 
 **Markdown Editor**:
 You can use markdown editor to write your guide, we're recommend to use [StackEdit](https://stackedit.io/) stack edit is in-browser markdown editor.
@@ -63,3 +64,7 @@ tags: [guide]
 8. Push your changes: After committing your changes, push them to your fork on GitHub. This is done using the command `git push origin <new-branch-name>`.
 9. Create a pull request: Finally, create a pull request to merge your changes into the portal repository. This can be done through the GitHub interface by going to Portal repository and clicking on the "New pull request" button. Make sure to provide a detailed description of your changes and any relevant information.
 10. Collaborate: Once you've created a pull request, you may be asked to make changes or address feedback from the portal maintainers. Collaborate with them to ensure that your contribution is up to their standards.
+---
+
+That's it! Happy Contributing, everyone.
+
