@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# Rules
 
  **![:Ringing_Bell:](https://cdn.discordapp.com/emojis/985618600062758912.gif?size=44&quality=lossless) Welcome to IPZ, it’s a tough life surviving here. Please read our** **⁠📖︱guide before playing. If you are a new player and still learning how to play, we recommend you to join a faction. You can find all the factions at Factions Category or** **⁠🍀︱faction-board and register yourself to a faction by accessing** **⁠📑︱main-menu. Please refer to** **⁠📘︱faq first if you have any questions before sending tickets to @[IPZ] Assistant .**
  
