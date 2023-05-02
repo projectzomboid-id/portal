@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Lol',
+    title: 'Learn from Players',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our platform is designed to help you improve your game by learning from the best. Connect with top players, access exclusive tips and insights, and take your skills to the next level.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Community-driven',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+	At our core, we believe that gaming is all about community. That's why we've built a platform that is driven by the players themselves. Join our vibrant community, share your thoughts and ideas, and help shape the future of gaming.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Built with Docusaurus',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our platform is powered by Docusaurus, a modern open-source documentation framework that makes it easy to build and maintain high-quality websites. With Docusaurus, we can ensure that our platform is fast, reliable,
       </>
     ),
   },

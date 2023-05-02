@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Indonesia Project Zomboid Portal',
-  tagline: 'A community-driven resources by players for players',
+  tagline: 'This is the new hub for Indonesian Project Zomboid content, offering the community access to guides, blogs, and upcoming content',
   favicon: 'https://res.cloudinary.com/belanga/image/upload/v1677682087/ipz/icon_hb81gc.png',
 
   // Set the production url of your site here
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/projectzomboid-id/portal',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,30 +99,34 @@ const config = {
           {
             title: 'Community',
             items: [
+	      {
+		label: 'Main Website',
+		href: 'https://projectzomboid.id',
+	      },
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/projectzomboid-id',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/ipz',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/projectzomboid.id',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Support Us',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Sociabuzz',
+                href: 'https://sociabuzz.com/projectzomboid_id/tribe',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Ko-fi',
+                href: 'https://ko-fi.com/cattycats',
               },
             ],
           },
@@ -130,7 +134,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Indonesia Project Zomboid. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+	      theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
