@@ -22,7 +22,7 @@ sidebar_class_name: red
 > (6) Try to login with "use steam relay" checked or unchecked, don't forget to click save before joining. 
 > (7) Try to combine solution no.4 or no.5 with solution no.6 
 > (8) Verifying your Project Zomboid app. Go to steam library > right click on the game > properties > Local Files tab > “Verify Integrity of game files…” 
-> (9) Delete all of your save files in "C:\Users<Username>\Zomboid\Saves\Multiplayer" and "C:\Users<Username>\Zomboid\Logs"
+> (9) Delete all of your save files in "C:\Users\(Username)\Zomboid\Saves\Multiplayer" and "C:\Users\(Username)\Zomboid\Logs"
 
 If the solutions above is still not working for you, these are some solutions that we found online:
 
@@ -51,5 +51,5 @@ If the solutions above is still not working for you, these are some solutions th
 > (6) Login dengan "use steam relay' tercentang atau tidak tercentang, jangan lupa untuk klik save sebelum joining 
 > (7) Coba untuk kombinasikan solusi no.4 atau no.5 dengan solusi no.6 
 > (8) Memverifikasi aplikasi Project Zomboid Anda. Buka steam library > click kanan gamenya > properties > Local Files tab > “Verify Integrity of game files…” 
-> (9) Hapus semua folder di "C:\Users<Username>\Zomboid\Saves\Multiplayer" dan "C:\Users<Username>\Zomboid\Logs"
+> (9) Hapus semua folder di "C:\Users\(Username)\Zomboid\Saves\Multiplayer" dan "C:\Users\(Username)\Zomboid\Logs"
 
