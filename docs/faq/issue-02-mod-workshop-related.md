@@ -4,6 +4,8 @@ sidebar_label: Mod or Workshop Related
 sidebar_class_name: red
 ---
 
+# Workshop/Mod Related Issues
+
 ## **“Workshop item version is different than servers”**
 **Reason:**
 

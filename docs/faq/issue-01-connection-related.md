@@ -4,6 +4,8 @@ sidebar_label: Connection Related
 sidebar_class_name: red
 ---
 
+# Connection Related Issues
+
 ## "Failed to establish P2P Connection with Server” or “Failed to Download Map to The Server"
 
 **Reason:**
