@@ -21,14 +21,14 @@ There is a few step in **Advance mode**
 ---
 ### Advance mode
 
- 1. Clone the repository: clone the repository to your local machine. You can do this by running the command `git clone <repository-url>` in your terminal.
+ 1. Clone the repository: clone the repository to your local machine. You can do this by running the command `git clone https://github.com/projectzomboid-id/portal.git` in your terminal.
  2. Create a new branch: Once you have the repository cloned, create a new branch to work on your changes. This is done using the command `git checkout -b <GUIDES-yourusername>`.
  3. Add your author information in `guides/author.yml` then edit like the example below
  ```yml
  chaser:
   name: Chaserlazer
   title: Community Contributor
-  url: https://github.com/abimanyudrmwn
+  url: https://github.com/abimanyudrmwn (You can fill url with any social media account)
   image_url: https://cdn.discordapp.com/avatars/566871075355623449/a660c16ec952c22d5586cac119838b2f?size=1024
 ```
  5. Make your changes: This is the step where you make your contribution. You can directly make new markdown file with date in your terminal e.g. `touch 2023-05-02-your-name-of-content.md` on `guides` directory.
