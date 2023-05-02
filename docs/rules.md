@@ -41,7 +41,7 @@ sidebar_position: 1
  6. **Please consult first for the location before starting construction. If the construction violates rule no.5 without prior consultation, we will carry out forced demolition without notification and we will not replace the materials you have used.** / _Harap konsultasi terlebih dahulu untuk lokasinya sebelum memulai pembangunan. Jika pembangunan melanggar aturan nomor 5 tanpa konsultasi terlebih dahulu, kami akan melakukan pembongkaran paksa tanpa pemberitahuan dan kami tidak akan mengganti material yang telah kalian gunakan._
  7. **All the safehouse related request should be done by sending the message through @[IPZ] Assistant .** / Semua request yang berhubungan dengan safehouse harus dilakukan dengan mengirimkan pesan melalui @[IPZ] Assistant .
 
-### D. Vehicles Rules
+### Vehicles Rules
 
  1. **Player is only allow to keep or park vehicles at/near their safehouse as many as the maximum number of vehicle that they can claim (4) and claim it.** / Player hanya boleh menyimpan atau memarkirkan kendaraan di/dekat safehousenya sebanyak jumlah klaim kendaraan maksimal (4) dan mengklaimnya.
  2. **Safehouse that have more than one member can accomodate vehicles up to the amount of players*4 vehicles, but we will limit it up to 12 vehicles per safehouse area no matter how many safehouse member** / Safehouse yang terdiri lebih dari satu member dapat menampung sejumlah player*4 kendaraan, tetapi kami akan membatasinya hingga 12 kendaraan per area safehouse tanpa melihat jumlah member safehouse.
@@ -51,7 +51,7 @@ sidebar_position: 1
 **Forbidden area to claim can be seen below** / Area larangan klaim safehouse dapat dilihat pada gambar berikut.
 ![Forbidden Area to claim](https://cdn.discordapp.com/attachments/977941034908680202/1080824851582963722/Forbidden_To_Claim_S14.png)
 
-## Community Center Rules
+## D. Community Center Rules
 ### General Rules
 
  1. **Player is prohibited to change anything in Community Center area such as vandalism in any kind of form (break/smash a window, pickup a container, etc.), build any new structure or place any solid object, cut trees, trim bushes, dig furrow and anything related to those actions without permission from admin.** / Pemain dilarang mengubah apapun di area Community Center seperti vandalisme dalam bentuk apapun (merusak/memecahkan jendela, mengambil kontainer, dll), membangun struktur baru atau meletakkan benda apapun, menebang pohon, memangkas semak-semak , menggali tanah dan apapun yang berhubungan dengan tindakan tersebut tanpa izin dari admin.
