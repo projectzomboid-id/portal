@@ -2,6 +2,12 @@
 # Guides
 **Here's some guide to play at Indonesia Project Zomboid Server**
 
+### External Workshop Download (Steam Workshop) (Recommended!)
+
+S14 Mod Collection:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2940900415
+
+
 ## A. General Info
 
  1. You can join our Project Zomboid Server by using the IP and PORT that was written at Introduction
