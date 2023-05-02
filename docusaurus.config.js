@@ -32,6 +32,27 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'guides',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'guides',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './guides',
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -82,6 +103,7 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {to: '/guides', label: 'Guides', position: 'left'},
         ],
       },
       footer: {
@@ -94,6 +116,14 @@ const config = {
                 label: 'Docs',
                 to: '/docs/intro',
               },
+	      {
+		label: 'Blog',
+		to: '/blog',
+	      },
+	     {
+		label: 'Guides',
+		to: '/guides',
+	      },
             ],
           },
           {
