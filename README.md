@@ -13,7 +13,7 @@ So why not join us today and start exploring all that our community has to offer
 ## Tools
 
 **Markdown Editor**:
-You can use markdown editor to write your guide, we're recommendating to use [StackEdit](https://stackedit.io/) stack edit is in-browser markdown editor.
+You can use markdown editor to write your guide, we're recommend to use [StackEdit](https://stackedit.io/) stack edit is in-browser markdown editor.
 
 There is a few step in **Non-Advance mode** and  **Advance mode.** 
 
@@ -35,8 +35,9 @@ There is a few step in **Non-Advance mode** and  **Advance mode.**
 5. Add header snippet for your content info like this:
 ![content](https://imgur.com/wNed78R.png)
 6. Then you can click Commit changes, fill up commit message or give it default message and add optional description about your guide. Click Commit changes.
-7. Create a pull request: Finally, create a pull request to merge your changes into the portal repository. This can be done through the GitHub interface by going to Portal repository and clicking on the "New pull request" button. Make sure to provide a detailed description of your changes and any relevant information.
-8. Collaborate: Once you've created a pull request, you may be asked to make changes or address feedback from the portal maintainers. Collaborate with them to ensure that your contribution is up to their standards.
+7. You can fill [YOUR CONTENT HERE] with your content that created in any markdown editor (we recommend to use [StackEdit](https://stackedit.io/)
+8. Create a pull request: Finally, create a pull request to merge your changes into the portal repository. This can be done through the GitHub interface by going to Portal repository and clicking on the "New pull request" button. Make sure to provide a detailed description of your changes and any relevant information.
+9. Collaborate: Once you've created a pull request, you may be asked to make changes or address feedback from the portal maintainers. Collaborate with them to ensure that your contribution is up to their standards.
 ---
 ### Advance mode
 
