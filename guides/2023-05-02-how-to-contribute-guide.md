@@ -7,6 +7,7 @@ tags: [guide]
 
 
 
+
 ### Tools
 
 **Markdown Editor**:
@@ -18,6 +19,7 @@ There is a few step in **Non-Advance mode** and  **Advance mode.**
 
  1. Open `guides` directory ![1](https://imgur.com/eBzjfa5.png)
  2. Edit authors.yml then add your info e.g. 
+
  ```yml
  chaser:
   name: Chaserlazer
@@ -25,9 +27,10 @@ There is a few step in **Non-Advance mode** and  **Advance mode.**
   url: https://github.com/abimanyudrmwn
   image_url: https://cdn.discordapp.com/avatars/566871075355623449/a660c16ec952c22d5586cac119838b2f?size=1024
 ``` 
+
 ![authors](https://imgur.com/pBagsKX.png)![edit bro wowoww](https://imgur.com/bZ61Fu7.png)![enter image description here](https://imgur.com/JXFnjPt.png)
 
- 4. Save it. Then create new file in `guides` directory with date slug e.g `2023-05-02-your-title.md` 
+4. Save it. Then create new file in `guides` directory with date slug e.g `2023-05-02-your-title.md` 
   ![2](https://imgur.com/cDCFFWr.png)![3](https://imgur.com/fUMHM6d.png)
 5. Add header snippet for your content info like this:
 ![content](https://imgur.com/wNed78R.png)
@@ -66,5 +69,9 @@ tags: [guide]
 10. Collaborate: Once you've created a pull request, you may be asked to make changes or address feedback from the portal maintainers. Collaborate with them to ensure that your contribution is up to their standards.
 ---
 
-That's it! Happy Contributing, everyone.
+
+**Built with Docusaurus**
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+
 
