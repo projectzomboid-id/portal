@@ -30,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="new home for Indonesia Project Zomboid content! We're excited to provide a space where community of this popular survival game can find guides, blogs, and other content related to the Indonesia Project Zomboid server.">
       <HomepageHeader />
       <main>
