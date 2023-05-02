@@ -5,7 +5,13 @@ authors: [chaser]
 tags: [guide]
 ---
 
+## Hi Fellas
 
+Are you a die-hard player of Project Zomboid and have spent countless hours honing your survival skills in the zombie-infested world? Do you have a unique strategy or playstyle that has helped you stay alive longer than your peers? Or perhaps you have some tips and tricks that could benefit the wider community of players?
+
+If so, we invite you to contribute to the Project Zomboid community and share your expertise with others. This is an opportunity for you to give back to the community that has helped you along your journey and to help others improve their gameplay experience.
+
+Whether you're an experienced player or a newcomer to the game, your contributions are welcome. You can share your strategies, playstyles, tips, or anything else that you think would be useful to others. From survival tips to combat tactics, base building strategies to scavenging techniques, there's always something new to learn about Project Zomboid.
 
 
 ### Tools
