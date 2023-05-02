@@ -41,7 +41,7 @@ sidebar_position: 1
  6. **Please consult first for the location before starting construction. If the construction violates rule no.5 without prior consultation, we will carry out forced demolition without notification and we will not replace the materials you have used.** / _Harap konsultasi terlebih dahulu untuk lokasinya sebelum memulai pembangunan. Jika pembangunan melanggar aturan nomor 5 tanpa konsultasi terlebih dahulu, kami akan melakukan pembongkaran paksa tanpa pemberitahuan dan kami tidak akan mengganti material yang telah kalian gunakan._
  7. **All the safehouse related request should be done by sending the message through @[IPZ] Assistant .** / Semua request yang berhubungan dengan safehouse harus dilakukan dengan mengirimkan pesan melalui @[IPZ] Assistant .
 
-### Vehicles Rules
+### D. Vehicles Rules
 
  1. **Player is only allow to keep or park vehicles at/near their safehouse as many as the maximum number of vehicle that they can claim (4) and claim it.** / Player hanya boleh menyimpan atau memarkirkan kendaraan di/dekat safehousenya sebanyak jumlah klaim kendaraan maksimal (4) dan mengklaimnya.
  2. **Safehouse that have more than one member can accomodate vehicles up to the amount of players*4 vehicles, but we will limit it up to 12 vehicles per safehouse area no matter how many safehouse member** / Safehouse yang terdiri lebih dari satu member dapat menampung sejumlah player*4 kendaraan, tetapi kami akan membatasinya hingga 12 kendaraan per area safehouse tanpa melihat jumlah member safehouse.
