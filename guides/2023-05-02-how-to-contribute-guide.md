@@ -19,16 +19,18 @@ There is a few step in **Non-Advance mode** and  **Advance mode.**
 
  1. Open `guides` directory ![1](https://imgur.com/eBzjfa5.png)
  2. Edit authors.yml then add your info e.g. 
-
- ```yml
+ 
+ ```
  chaser:
   name: Chaserlazer
   title: Community Contributor
   url: https://github.com/abimanyudrmwn
   image_url: https://cdn.discordapp.com/avatars/566871075355623449/a660c16ec952c22d5586cac119838b2f?size=1024
-``` 
+  ``` 
 
-![authors](https://imgur.com/pBagsKX.png)![edit bro wowoww](https://imgur.com/bZ61Fu7.png)![enter image description here](https://imgur.com/JXFnjPt.png)
+![authors](https://imgur.com/pBagsKX.png)
+![edit bro wowoww](https://imgur.com/bZ61Fu7.png)
+![enter image description here](https://imgur.com/JXFnjPt.png)
 
 4. Save it. Then create new file in `guides` directory with date slug e.g `2023-05-02-your-title.md` 
   ![2](https://imgur.com/cDCFFWr.png)![3](https://imgur.com/fUMHM6d.png)
@@ -38,7 +40,9 @@ There is a few step in **Non-Advance mode** and  **Advance mode.**
 7. You can fill [YOUR CONTENT HERE] with your content that created in any markdown editor (we recommend to use [StackEdit](https://stackedit.io/)
 8. Create a pull request: Finally, create a pull request to merge your changes into the portal repository. This can be done through the GitHub interface by going to Portal repository and clicking on the "New pull request" button. Make sure to provide a detailed description of your changes and any relevant information.
 9. Collaborate: Once you've created a pull request, you may be asked to make changes or address feedback from the portal maintainers. Collaborate with them to ensure that your contribution is up to their standards.
+
 ---
+
 ### Advance mode
 
  1. Clone the repository: clone the repository to your local machine. You can do this by running the command `git clone <repository-url>` in your terminal.
