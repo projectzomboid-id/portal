@@ -88,7 +88,7 @@ const config = {
         title: 'Portal',
         logo: {
           alt: 'IPZ Logo',
-          src: 'https://res.cloudinary.com/belanga/image/upload/v1677682087/ipz/icon_hb81gc.png',
+          src: 'https://res.cloudinary.com/ipz/image/upload/v1677766525/ipz/logo-s14-hotfix_kumesb.png',
         },
         items: [
           {
