@@ -12,7 +12,7 @@ The goal of this portal page is to become the go-to resource for players who wan
 
 One of the key features of this portal page is that it's community-driven. That means that anyone can contribute content to the page, whether it's a guide on how to survive a zombie horde, a guide post about their favorite strategies, or a video tutorial on crafting the perfect base. By working together, we can create a comprehensive resource that benefits everyone in the community.
 
-We're also committed to providing high-quality content that's accurate, informative, and engaging. Our team of editors will review all submissions to ensure that they meet our standards for quality and accuracy. We'll also be curating content from other sources, such as official game updates and news from the community.
+We're also committed to providing high-quality content that's accurate, informative, and engaging. Staff will review all submissions to ensure that they meet our standards for quality and accuracy. We'll also be curating content from other sources, such as official game updates and news from the community.
 
 Whether you're a seasoned player or just starting out, we hope that this portal page will become a valuable resource for you. We're excited to see the contributions that the community will make, and we're looking forward to building a thriving community around Indonesia Project Zomboid.
 
