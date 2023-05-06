@@ -14,6 +14,6 @@ One of the most significant challenges in an apocalypse is maintaining a positiv
 
 Additionally, some instruments can have practical applications beyond entertainment. For example, drums can be used to signal others in the distance or to communicate in situations where verbal communication is not possible. Similarly, a whistle or a harmonica can be used to alert others of danger or to signal for help.
 
-Conclusion, while music and instruments can be a valuable source of comfort and entertainment in an apocalypse, they must be viewed as a supplement to survival skills, rather than a substitute. It is crucial to prioritize our basic needs and survival, while also finding ways to maintain our emotional wellbeing and build a sense of community.
-
 In KY there is some group of musicians has taken on the noble task of teaching fellow survivors how to play musical instruments, providing a source of creative expression and entertainment amidst the challenges of survival.
+
+Conclusion, while music and instruments can be a valuable source of comfort and entertainment in an apocalypse, they must be viewed as a supplement to survival skills, rather than a substitute. It is crucial to prioritize our basic needs and survival, while also finding ways to maintain our emotional wellbeing and build a sense of community.
