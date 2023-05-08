@@ -1,14 +1,14 @@
 {
-  "position": 2.5,
-  "label": "FAQ",
-  "collapsible": true,
-  "collapsed": true,
-  "className": "red",
-  "link": {
-    "type": "generated-index",
-    "title": "FAQ"
-  },
-  "customProps": {
-    "description": "This channel contains a compilation of Issues that was experienced by player and a bunch of solution that might resolve it."
-  }
+    "position": 2.5,
+    "label": "FAQ",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "FAQ"
+    },
+    "customProps": {
+      "description": "This channel contains a compilation of Issues that was experienced by player and a bunch of solution that might resolve it."
+    }
 }
