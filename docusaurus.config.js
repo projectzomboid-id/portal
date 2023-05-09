@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Indonesia Project Zomboid Portal',
   tagline: 'This is the new hub for Indonesian Project Zomboid content, offering the community access to guides, blogs, and upcoming content',
-  favicon: 'https://res.cloudinary.com/belanga/image/upload/v1677682087/ipz/icon_hb81gc.png',
+  favicon: 'https://res.cloudinary.com/ipz/image/upload/v1683171788/ipz/favicon_rrjozu.ico',
 
   // Set the production url of your site here
   url: 'https://portal.projectzomboid.id',
@@ -104,6 +104,7 @@ const config = {
             position: 'right',
           },
           {to: '/guides', label: 'Guides', position: 'left'},
+          {to: '/write', label: 'Write Contribute', position: 'left'},
         ],
       },
       footer: {
@@ -124,13 +125,17 @@ const config = {
 		label: 'Guides',
 		to: '/guides',
 	      },
+        {
+          label: 'Write Contribute',
+          to: '/write',
+              },
             ],
           },
           {
             title: 'Community',
             items: [
 	      {
-		label: 'Main Website',
+		label: 'Website',
 		href: 'https://projectzomboid.id',
 	      },
               {
@@ -161,7 +166,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Indonesia Project Zomboid. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Indonesia Project Zomboid.`,
       },
       prism: {
 	      theme: lightCodeTheme,
